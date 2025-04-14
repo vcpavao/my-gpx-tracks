@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2024-03-02T21:50:03Z</time>
+    <bounds maxlat="42.195916688069701" maxlon="-70.834802789613605" minlat="42.194020533934236" minlon="-70.836986359208822"/>
+  </metadata>
+  <trk>
+    <name>Wompatuck2012</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.194020533934236" lon="-70.836986359208822">
+        <ele>45.7999267578125</ele>
+        <time>2012-08-20T19:55:25Z</time>
+      </trkpt>
+      <trkpt lat="42.194260256364942" lon="-70.836742278188467">
+        <ele>44.838623046875</ele>
+        <time>2012-08-20T19:55:50Z</time>
+      </trkpt>
+      <trkpt lat="42.194174341857433" lon="-70.836516385897994">
+        <ele>43.8773193359375</ele>
+        <time>2012-08-20T19:56:05Z</time>
+      </trkpt>
+      <trkpt lat="42.194342650473118" lon="-70.836328128352761">
+        <ele>42.4354248046875</ele>
+        <time>2012-08-20T19:56:25Z</time>
+      </trkpt>
+      <trkpt lat="42.194766942411661" lon="-70.836235759779811">
+        <ele>42.4354248046875</ele>
+        <time>2012-08-20T19:56:35Z</time>
+      </trkpt>
+      <trkpt lat="42.194823184981942" lon="-70.836068037897348">
+        <ele>41.9547119140625</ele>
+        <time>2012-08-20T19:56:50Z</time>
+      </trkpt>
+      <trkpt lat="42.194794937968254" lon="-70.835877098143101">
+        <ele>42.4354248046875</ele>
+        <time>2012-08-20T19:57:00Z</time>
+      </trkpt>
+      <trkpt lat="42.194890072569251" lon="-70.835661767050624">
+        <ele>43.3966064453125</ele>
+        <time>2012-08-20T19:57:22Z</time>
+      </trkpt>
+      <trkpt lat="42.195219732820988" lon="-70.835381895303726">
+        <ele>43.3966064453125</ele>
+        <time>2012-08-20T19:58:00Z</time>
+      </trkpt>
+      <trkpt lat="42.195372032001615" lon="-70.835234457626939">
+        <ele>42.916015625</ele>
+        <time>2012-08-20T19:58:19Z</time>
+      </trkpt>
+      <trkpt lat="42.195505723357201" lon="-70.835045697167516">
+        <ele>42.916015625</ele>
+        <time>2012-08-20T19:58:40Z</time>
+      </trkpt>
+      <trkpt lat="42.195740165188909" lon="-70.834973528981209">
+        <ele>42.916015625</ele>
+        <time>2012-08-20T19:59:06Z</time>
+      </trkpt>
+      <trkpt lat="42.195916688069701" lon="-70.83487537689507">
+        <ele>43.3966064453125</ele>
+        <time>2012-08-20T19:59:16Z</time>
+      </trkpt>
+      <trkpt lat="42.195898164063692" lon="-70.834802789613605">
+        <ele>44.3580322265625</ele>
+        <time>2012-08-20T19:59:26Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
