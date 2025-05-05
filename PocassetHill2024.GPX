@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2024-08-15T01:39:32Z</time>
+    <bounds maxlat="41.653577545657754" maxlon="-71.190542662516236" minlat="41.653439160436392" minlon="-71.190963769331574"/>
+  </metadata>
+  <trk>
+    <name>PocassetHill2024</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="41.653577545657754" lon="-71.190963769331574">
+        <ele>71.400001525878906</ele>
+        <time>2024-08-14T21:21:41Z</time>
+      </trkpt>
+      <trkpt lat="41.653517531231046" lon="-71.190932085737586">
+        <ele>73</ele>
+        <time>2024-08-14T21:22:03Z</time>
+      </trkpt>
+      <trkpt lat="41.653444692492485" lon="-71.190827144309878">
+        <ele>72.800003051757812</ele>
+        <time>2024-08-14T21:22:18Z</time>
+      </trkpt>
+      <trkpt lat="41.653439160436392" lon="-71.190769895911217">
+        <ele>73.400001525878906</ele>
+        <time>2024-08-14T21:22:21Z</time>
+      </trkpt>
+      <trkpt lat="41.653439328074455" lon="-71.190704768523574">
+        <ele>72.599998474121094</ele>
+        <time>2024-08-14T21:22:24Z</time>
+      </trkpt>
+      <trkpt lat="41.653443351387978" lon="-71.190649447962642">
+        <ele>72</ele>
+        <time>2024-08-14T21:22:27Z</time>
+      </trkpt>
+      <trkpt lat="41.653479225933552" lon="-71.190542662516236">
+        <ele>74.400001525878906</ele>
+        <time>2024-08-14T21:22:42Z</time>
+      </trkpt>
+      <trkpt lat="41.653472855687141" lon="-71.190556073561311">
+        <ele>73.800003051757812</ele>
+        <time>2024-08-14T21:22:49Z</time>
+      </trkpt>
+      <trkpt lat="41.653442345559597" lon="-71.190608963370323">
+        <ele>73.400001525878906</ele>
+        <time>2024-08-14T21:22:54Z</time>
+      </trkpt>
+      <trkpt lat="41.653485428541899" lon="-71.190839549526572">
+        <ele>73.199996948242188</ele>
+        <time>2024-08-14T21:23:04Z</time>
+      </trkpt>
+      <trkpt lat="41.65357586927712" lon="-71.190949520096183">
+        <ele>74.599998474121094</ele>
+        <time>2024-08-14T21:23:12Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
